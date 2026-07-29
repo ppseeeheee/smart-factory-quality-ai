@@ -75,7 +75,7 @@ Planned dataset:
 Clone the repository.
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/ppseeeheee/smart-factory-quality-ai.git
 cd smart-factory-quality-ai
 ```
 
